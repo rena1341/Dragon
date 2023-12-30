@@ -1,0 +1,23 @@
+.frame{
+    display: flex;
+    position: inherit;
+    flex-flow: column;
+    min-height: 100vh;
+    color: #ffffff;
+    border:5px solid #ffffff;
+    padding: 20px;
+    margin:50px;
+}
+
+.task{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.taskInput{
+    color: #ffffff;
+    width: 300px; 
+    height: 40px; 
+}

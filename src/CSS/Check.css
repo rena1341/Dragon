@@ -1,0 +1,41 @@
+.frame{
+    display: flex;
+    position: inherit;
+    flex-flow: column;
+    min-height: 100vh;
+    color: #ffffff;
+    border:5px solid #ffffff;
+    padding: 20px;
+    margin:50px;
+}
+
+.frameTitle{
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.frameOption{
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+    font-weight: bold;
+}
+
+.logIn{
+    font-size: 56px;
+    margin: 20px;
+}
+
+.logIn :hover{
+    color: blue;
+    border:5px solid #ffffff;
+}
+
+.signUp{
+    font-size: 56px;
+    margin: 20px;
+}
+
+
+

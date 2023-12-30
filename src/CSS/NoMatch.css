@@ -1,0 +1,8 @@
+.NoMatch{
+    color: #ffffff;
+    font-size: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
